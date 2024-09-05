@@ -1,0 +1,11 @@
+.azuredatastudio
+.DS_Store
+.gradle/
+.idea/
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+gradle/
+out/
+Project1_JDBC/Project1_JDBC.iml
